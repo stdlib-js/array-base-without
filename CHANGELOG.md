@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`921a9fe`](https://github.com/stdlib-js/stdlib/commit/921a9fe9a5bd423dc5153e7aabf645fd05a175d8) - **test:** add boolean array tests _(by Athan Reines)_
 -   [`f6df528`](https://github.com/stdlib-js/stdlib/commit/f6df52818f504fd55987a80f586ad55b40405d58) - **feat:** add `array/base/without` _(by Athan Reines)_
 
 </details>
