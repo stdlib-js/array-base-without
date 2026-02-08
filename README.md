@@ -52,13 +52,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import without from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-without@deno/mod.js';
+import without from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-without@v0.1.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-without@deno/mod.js';
+import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-without@v0.1.1-deno/mod.js';
 ```
 
 #### without( x, index )
@@ -129,7 +129,7 @@ The function accepts the following arguments:
 
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
-import without from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-without@deno/mod.js';
+import without from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-without@v0.1.1-deno/mod.js';
 
 // Define an array:
 var opts = {
