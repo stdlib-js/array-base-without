@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-03)
+## Unreleased (2026-11-14)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`7dc1831`](https://github.com/stdlib-js/stdlib/commit/7dc18312d916c5f20e5b63dd45b44307093336d0) - **docs:** fix heading levels [(#16624)](https://github.com/stdlib-js/stdlib/pull/16624) _(by Philipp Burckhardt)_
 -   [`d660241`](https://github.com/stdlib-js/stdlib/commit/d660241b4827a4c598b2334173552247ad4b839f) - **bench:** refactor to use string interpolation in `array` [(#11414)](https://github.com/stdlib-js/stdlib/pull/11414) _(by Karan Anand, Athan Reines)_
 
 </details>
@@ -24,10 +25,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 
